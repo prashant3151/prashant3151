@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Prashant 👋
 
-<!--
-**prashant3151/prashant3151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET developer with 10+ years of experience building data-heavy desktop applications, REST APIs, and database-driven systems.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** C#, VB.NET, SQL, R, JavaScript
+- **Desktop:** WPF, Windows Forms
+- **Backend:** ASP.NET Core Web API, Entity Framework, SQL Server, IIS
+- **Cloud and DevOps:** Azure (Storage, DevOps, Repos), Git
+- **Mobile:** Xamarin Forms, .NET MAUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built professionally
+- Offline-first WPF analytics platform with R and Ox modeling, used by many clients
+- Payroll ERP handling 100,000+ payslips a month (VB.NET, SQL Server)
+- REST APIs and Windows Server/IIS deployments for freelance clients
+
+*(Client and employer code is private. Public repos below are my own projects.)*
+
+## Currently learning
+AI integration: LLMs and RAG with .NET,Avalonia UI
+
+## Contact
+📧 your-email@example.com · 💼 [LinkedIn](https://www.linkedin.com/in/prashant3151/)
+
+Open to remote roles with international and Indian teams.
