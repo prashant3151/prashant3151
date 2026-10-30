@@ -18,6 +18,6 @@
 AI integration: LLMs and RAG with .NET,Avalonia UI
 
 ## Contact
-📧 developer.prashant@hotmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/prashant3151/)
+📧 prashant351@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/prashant3151/)
 
 Open to remote roles with international and Indian teams.
